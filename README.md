@@ -1,6 +1,7 @@
 ### Hi there 
 
 Portfolio: https://github.com/nicholasjlo/Portfolio/blob/5186e8c8da95434a201021b7ae20174b61e0d0a9/Portfolio_NicholasLo.pdf
+
 Resume: https://github.com/nicholasjlo/Portfolio/blob/5186e8c8da95434a201021b7ae20174b61e0d0a9/Resume.NicholasLo.Projects.pdf
 
 
