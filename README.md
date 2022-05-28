@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 
+
+Portfolio: https://github.com/nicholasjlo/Portfolio/blob/5186e8c8da95434a201021b7ae20174b61e0d0a9/Portfolio_NicholasLo.pdf
+Resume: https://github.com/nicholasjlo/Portfolio/blob/5186e8c8da95434a201021b7ae20174b61e0d0a9/Resume.NicholasLo.Projects.pdf
+
+
 
 <!--
 **nicholasjlo/nicholasjlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
